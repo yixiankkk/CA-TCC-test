@@ -1,0 +1,131 @@
+=============================================
+Dataset: HRD
+Mode:    ft_1p
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 2.3804	 | 	Train Accuracy     : 0.1771
+Valid Loss     : 2.3649	 | 	Valid Accuracy     : 0.1527
+
+Epoch : 2
+Train Loss     : 1.9862	 | 	Train Accuracy     : 0.3672
+Valid Loss     : 2.0739	 | 	Valid Accuracy     : 0.3558
+
+Epoch : 3
+Train Loss     : 1.7473	 | 	Train Accuracy     : 0.4323
+Valid Loss     : 1.9174	 | 	Valid Accuracy     : 0.3667
+
+Epoch : 4
+Train Loss     : 1.5649	 | 	Train Accuracy     : 0.4688
+Valid Loss     : 1.7467	 | 	Valid Accuracy     : 0.4256
+
+Epoch : 5
+Train Loss     : 1.4419	 | 	Train Accuracy     : 0.5391
+Valid Loss     : 1.6373	 | 	Valid Accuracy     : 0.4495
+
+Epoch : 6
+Train Loss     : 1.2910	 | 	Train Accuracy     : 0.5755
+Valid Loss     : 1.5658	 | 	Valid Accuracy     : 0.4823
+
+Epoch : 7
+Train Loss     : 1.2038	 | 	Train Accuracy     : 0.6094
+Valid Loss     : 1.4494	 | 	Valid Accuracy     : 0.5100
+
+Epoch : 8
+Train Loss     : 1.1349	 | 	Train Accuracy     : 0.6536
+Valid Loss     : 1.4325	 | 	Valid Accuracy     : 0.5143
+
+Epoch : 9
+Train Loss     : 1.0564	 | 	Train Accuracy     : 0.6667
+Valid Loss     : 1.3086	 | 	Valid Accuracy     : 0.5467
+
+Epoch : 10
+Train Loss     : 0.9777	 | 	Train Accuracy     : 0.7214
+Valid Loss     : 1.3477	 | 	Valid Accuracy     : 0.5307
+
+Epoch : 11
+Train Loss     : 0.9404	 | 	Train Accuracy     : 0.7240
+Valid Loss     : 1.2827	 | 	Valid Accuracy     : 0.5456
+
+Epoch : 12
+Train Loss     : 0.9030	 | 	Train Accuracy     : 0.7370
+Valid Loss     : 1.2938	 | 	Valid Accuracy     : 0.5538
+
+Epoch : 13
+Train Loss     : 0.7849	 | 	Train Accuracy     : 0.7865
+Valid Loss     : 1.2771	 | 	Valid Accuracy     : 0.5292
+
+Epoch : 14
+Train Loss     : 0.7285	 | 	Train Accuracy     : 0.8151
+Valid Loss     : 1.2595	 | 	Valid Accuracy     : 0.5634
+
+Epoch : 15
+Train Loss     : 0.6863	 | 	Train Accuracy     : 0.8099
+Valid Loss     : 1.2996	 | 	Valid Accuracy     : 0.5386
+
+Epoch : 16
+Train Loss     : 0.6534	 | 	Train Accuracy     : 0.8125
+Valid Loss     : 1.2491	 | 	Valid Accuracy     : 0.5510
+
+Epoch : 17
+Train Loss     : 0.6175	 | 	Train Accuracy     : 0.8385
+Valid Loss     : 1.2912	 | 	Valid Accuracy     : 0.5640
+
+Epoch : 18
+Train Loss     : 0.5961	 | 	Train Accuracy     : 0.8307
+Valid Loss     : 1.2393	 | 	Valid Accuracy     : 0.5610
+
+Epoch : 19
+Train Loss     : 0.5783	 | 	Train Accuracy     : 0.8385
+Valid Loss     : 1.2592	 | 	Valid Accuracy     : 0.5776
+
+Epoch : 20
+Train Loss     : 0.5401	 | 	Train Accuracy     : 0.8464
+Valid Loss     : 1.3305	 | 	Valid Accuracy     : 0.5474
+
+Epoch : 21
+Train Loss     : 0.5109	 | 	Train Accuracy     : 0.8594
+Valid Loss     : 1.2687	 | 	Valid Accuracy     : 0.5712
+
+Epoch : 22
+Train Loss     : 0.4958	 | 	Train Accuracy     : 0.8646
+Valid Loss     : 1.3171	 | 	Valid Accuracy     : 0.5642
+
+Epoch : 23
+Train Loss     : 0.4712	 | 	Train Accuracy     : 0.8828
+Valid Loss     : 1.2357	 | 	Valid Accuracy     : 0.5817
+
+Epoch : 24
+Train Loss     : 0.4460	 | 	Train Accuracy     : 0.8854
+Valid Loss     : 1.2763	 | 	Valid Accuracy     : 0.5840
+
+Epoch : 25
+Train Loss     : 0.4245	 | 	Train Accuracy     : 0.8750
+Valid Loss     : 1.1884	 | 	Valid Accuracy     : 0.6143
+
+Epoch : 26
+Train Loss     : 0.4332	 | 	Train Accuracy     : 0.8932
+Valid Loss     : 1.2697	 | 	Valid Accuracy     : 0.5941
+
+Epoch : 27
+Train Loss     : 0.3787	 | 	Train Accuracy     : 0.9062
+Valid Loss     : 1.2622	 | 	Valid Accuracy     : 0.5926
+
+Epoch : 28
+Train Loss     : 0.3483	 | 	Train Accuracy     : 0.9245
+Valid Loss     : 1.2556	 | 	Valid Accuracy     : 0.5911
+
+Epoch : 29
+Train Loss     : 0.3336	 | 	Train Accuracy     : 0.9297
+Valid Loss     : 1.2659	 | 	Valid Accuracy     : 0.5894
+
+Epoch : 30
+Train Loss     : 0.3290	 | 	Train Accuracy     : 0.9115
+Valid Loss     : 1.3363	 | 	Valid Accuracy     : 0.5634
+
+Evaluate on the Test set:
+Test loss      :1.0268	 | Test Accuracy      : 0.7023
+
+################## Training is Done! #########################
